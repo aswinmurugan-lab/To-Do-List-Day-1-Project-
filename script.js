@@ -48,3 +48,4 @@ function createTask(text){
         localStorage.setItem("list", JSON.stringify(tasks))
     })
 }
+
